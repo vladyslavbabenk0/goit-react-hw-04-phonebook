@@ -1,0 +1,22 @@
+.filterTitle {
+  color: #000;
+  font-family: Calluna;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.filterInput {
+  background-color:#d2d2e9;
+  width: 100%;
+  flex-shrink: 1;
+  height: 30px;
+  border: 0px;
+  outline: 0px;
+  border-radius: 45px;
+  padding: 10px 16px;
+}
